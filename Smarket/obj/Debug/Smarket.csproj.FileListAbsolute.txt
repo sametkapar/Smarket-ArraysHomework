@@ -1,0 +1,7 @@
+C:\Users\Skapar\source\repos\Smarket\Smarket\bin\Debug\Smarket.exe.config
+C:\Users\Skapar\source\repos\Smarket\Smarket\bin\Debug\Smarket.exe
+C:\Users\Skapar\source\repos\Smarket\Smarket\bin\Debug\Smarket.pdb
+C:\Users\Skapar\source\repos\Smarket\Smarket\obj\Debug\Smarket.csproj.AssemblyReference.cache
+C:\Users\Skapar\source\repos\Smarket\Smarket\obj\Debug\Smarket.csproj.CoreCompileInputs.cache
+C:\Users\Skapar\source\repos\Smarket\Smarket\obj\Debug\Smarket.exe
+C:\Users\Skapar\source\repos\Smarket\Smarket\obj\Debug\Smarket.pdb
