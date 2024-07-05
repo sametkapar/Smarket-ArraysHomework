@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Skapar\\source\\repos\\SepetliMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D301510-26FA-4785-B332-0BF95F8F91AD}|SepetliMarket\\SepetliMarket.csproj|c:\\users\\skapar\\source\\repos\\sepetlimarket\\sepetlimarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D301510-26FA-4785-B332-0BF95F8F91AD}|SepetliMarket\\SepetliMarket.csproj|solutionrelative:sepetlimarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Skapar\\source\\repos\\SepetliMarket\\SepetliMarket\\Program.cs",
+              "RelativeDocumentMoniker": "SepetliMarket\\Program.cs",
+              "ToolTip": "C:\\Users\\Skapar\\source\\repos\\SepetliMarket\\SepetliMarket\\Program.cs",
+              "RelativeToolTip": "SepetliMarket\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwEMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:25:20.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

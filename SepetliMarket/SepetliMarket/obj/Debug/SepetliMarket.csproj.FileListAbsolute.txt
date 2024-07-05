@@ -1,0 +1,7 @@
+C:\Users\Skapar\source\repos\SepetliMarket\SepetliMarket\bin\Debug\SepetliMarket.exe.config
+C:\Users\Skapar\source\repos\SepetliMarket\SepetliMarket\bin\Debug\SepetliMarket.exe
+C:\Users\Skapar\source\repos\SepetliMarket\SepetliMarket\bin\Debug\SepetliMarket.pdb
+C:\Users\Skapar\source\repos\SepetliMarket\SepetliMarket\obj\Debug\SepetliMarket.csproj.AssemblyReference.cache
+C:\Users\Skapar\source\repos\SepetliMarket\SepetliMarket\obj\Debug\SepetliMarket.csproj.CoreCompileInputs.cache
+C:\Users\Skapar\source\repos\SepetliMarket\SepetliMarket\obj\Debug\SepetliMarket.exe
+C:\Users\Skapar\source\repos\SepetliMarket\SepetliMarket\obj\Debug\SepetliMarket.pdb
